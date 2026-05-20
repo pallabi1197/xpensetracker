@@ -1,0 +1,35 @@
+.paginationWrapper{display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;}
+
+
+.paginationWrapper button {width: 37px;
+height: 37px;
+top: 739px;
+left: 319px;
+border-radius: 25px;
+background: #f1f1f1;
+display: flex;
+justify-content: center;
+align-items: center;
+border: none;
+}
+
+.paginationWrapper p{width: 37px;
+height: 37px;
+top: 739px;
+left: 370px;
+border-radius: 5px;
+background: #43967B;
+box-shadow: 0px 4px 4px 0px #00000040;
+color: #FFFFFF;
+font-size: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+border: none;
+}
+
+.icon{font-size: 20px;
+}

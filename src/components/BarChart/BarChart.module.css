@@ -1,0 +1,25 @@
+.barWrapper {
+  width: 417px;
+  height: 280px;
+  top: 441px;
+  left: 800px;
+  border-radius: 15px;
+  background: #ffffff;
+}
+
+.expenseCart h2 {
+  font-family: Ubuntu;
+  font-weight: 700;
+  font-style: Italic;
+  font-size: 28px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .barWrapper {
+    width: 360px;
+  }
+}

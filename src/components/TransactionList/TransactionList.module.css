@@ -1,0 +1,29 @@
+.transactionsWrapper {
+  width: 950px;
+  border-radius: 15px;
+  background: #ffffff;
+}
+
+.expenseCart h2 {
+  font-family: Ubuntu;
+  font-weight: 700;
+  font-style: Italic;
+  font-size: 28px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+.emptyTransactionsWrapper {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .transactionsWrapper {
+    width: 360px;
+  }
+}
